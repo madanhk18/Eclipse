@@ -1,11 +1,11 @@
 package Madanhk18;
 //stack wala program//
-class stack
+class stk
 {
 	int size;
 	int top;
 	int s_array[];
-	stack(int sz)
+	stk(int sz)
 	{
 		size=sz;
 		top=-1;
@@ -56,7 +56,7 @@ class stack
 public class prog2 {
 
 	public static void main(String[] args) {
-		stack s=new stack(5);
+		stk s=new stk(5);
 		s.push(3);
 		s.push(6);
 		s.push(10);
