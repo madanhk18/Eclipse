@@ -41,6 +41,7 @@ public class lab11 implements Runnable{
 			}
 		}
 			System.out.println("Main thread returns");
+			System.out.println(" ");
 		}
 	}
 
