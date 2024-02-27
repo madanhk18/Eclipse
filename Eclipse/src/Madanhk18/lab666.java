@@ -85,7 +85,7 @@ public class lab666 {
 		sqqur s=new sqqur("SQUARE",1,2,3,4);
 		s.draw();
 		s.erase("SQUARE");
-		System.out.println();
+	
 	}
 
 }
