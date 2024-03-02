@@ -1,9 +1,18 @@
 package Madanhk18;
-
+class mhk
+{
+	 void display()
+	{
+		System.out.println("Madan H K");
+	}
+}
+	
 public class first {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		mhk m=new mhk();
+		m.display();
+		
 
 	}
 
