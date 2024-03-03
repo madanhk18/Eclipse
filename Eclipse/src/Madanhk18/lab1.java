@@ -30,7 +30,7 @@ public class lab1 {
 		System.out.println("Before hike");
 		e.printdata();
 		
-		e.hike(5);
+		e.hike(10);
 		System.out.println("AFter hike");
 		e.printdata();
 	}
